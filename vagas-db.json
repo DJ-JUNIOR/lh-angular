@@ -1,0 +1,30 @@
+{
+
+"Vagas":[
+{
+    "id": 1,
+    "nome": "Desenvolvedor Junior",
+    "foto": "foto1.jpg",
+    "descricao":" Conhecimentos básicos em Java, Java Script, Json",
+    "salario": 5000
+},
+{
+    "id": 2,
+    "nome": "Desenvolvedor Pleno",
+    "foto": "foto2.jpg",
+    "descricao":" Conhecimentos intermediários e avançados em Java, Java Script, Json",
+    "salario": 10000
+},
+
+{
+    "id": 3,
+    "nome": "Desenvolvedor Pleno",
+    "foto": "foto3.jpg",
+    "descricao":" Conhecimentos intermediários e avançados em Java, Java Script, Json",
+    "salario": 15000
+}
+
+
+]
+ 
+}
